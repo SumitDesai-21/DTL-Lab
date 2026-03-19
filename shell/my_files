@@ -1,0 +1,10 @@
+total 24
+-rwxrwxr-x 1 sumit sumit 206 Feb 17 13:51 environment.sh
+-rwxrwxr-x 1 sumit sumit  40 Feb 22 15:32 hello.sh
+-rwxrwxr-x 1 sumit sumit  64 Feb 18 08:21 input.sh
+-rw-rw-r-- 1 sumit sumit   0 Feb 22 15:40 my_files
+-rwxrwxr-x 1 sumit sumit 122 Feb 17 13:36 script.sh
+-rwxrwxr-x 1 sumit sumit  89 Feb 22 15:33 test.sh
+-rwxrwxr-x 1 sumit sumit   1 Feb 22 15:39 try.sh
+Sun Feb 22 03:41:05 PM IST 2026
+hello world
