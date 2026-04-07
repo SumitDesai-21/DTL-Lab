@@ -1,0 +1,80 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Doe;John
+FN:John Doe
+TEL;TYPE=CELL:9876543210
+EMAIL:john.doe@example.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Smith;Jane
+FN:Jane Smith
+TEL;TYPE=CELL:9123456780
+EMAIL:jane.smith@example.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Sharma;Amit
+FN:Amit Sharma
+TEL;TYPE=CELL:9988776655
+EMAIL:amit.sharma@gmail.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Patel;Priya
+FN:Priya Patel
+TEL;TYPE=CELL:9090909090
+EMAIL:priya.patel@yahoo.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Verma;Rahul
+FN:Rahul Verma
+TEL;TYPE=CELL:8888888888
+EMAIL:rahul.verma@outlook.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Doe;John
+FN:John Doe
+TEL;TYPE=CELL:9876543210
+EMAIL:john.doe@example.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Smith;Jane
+FN:Jane Smith
+TEL;TYPE=CELL:9123456780
+EMAIL:jane.smith@example.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Sharma;Amit
+FN:Amit Sharma
+TEL;TYPE=CELL:9988776655
+EMAIL:amit.sharma@gmail.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Patel;Priya
+FN:Priya Patel
+TEL;TYPE=CELL:9090909090
+EMAIL:priya.patel@yahoo.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+N:Verma;Rahul
+FN:Rahul Verma
+TEL;TYPE=CELL:8888888888
+EMAIL:rahul.verma@outlook.com
+END:VCARD
+

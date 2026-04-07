@@ -11,15 +11,21 @@ do
 	if [ $cont -eq 0 ]; then
 		echo "Enter a number:"	
 		read num
-		sum=$((sum + num))
-		count=$((count + 1))
+
+		# validate number
+		if echo "$num" | grep -Eq '^-?[0-9]+$'; then
+			sum=$((sum + num))
+			count=$((count + 1))
+		else
+			echo "Invalid number, not counted"
+		fi
 	else
 		break
 	fi
 done
 
 echo "sum: $sum"
-
+echo "count: $count"
 if [ $count -ne 0 ]; then
 	echo "avg: $(echo "scale=2; $sum / $count" | bc)"
 else
